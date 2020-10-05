@@ -71,7 +71,7 @@ com.instana.plugin.host:
 # Hardware & Zone
 com.instana.plugin.generic.hardware:
   enabled: true # disabled by default
-  availability-zone: 'Easynvest'
+  availability-zone: 'PACP'
 
 # AWS Services
 # Monitoring of all AWS Service are enabled by default except for AWS XRay.
